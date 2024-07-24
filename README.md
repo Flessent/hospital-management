@@ -11,3 +11,4 @@ The goal of this small project is
 ### 1-to show how to properly manage OneToOne, ManytoOne and ManyToMany relationship using Spring MVC and Spring data.
 ### 2 -Applying Injection of dependance using the recommended approach which is the injection through the constructor (not @Autowired)
 ## 3- Avoid StarkoverflowException(common in ManyToMany or ManyToOne relationship) with help of Jakson library 
+## 4-Security part comes soon. However the management of ROLE, password and username are done  using Bcrypt which is a way of hashing password with spring security.
