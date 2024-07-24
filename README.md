@@ -8,6 +8,6 @@
 
 ## This is a very small application using Spring and Postgres 12 in order to manage a hospital.
 The goal of this small project is 
-### 1-to show how to manage OneToOne, ManytoOne and ManyToMany relationship using Spring MVC and Spring data.
+### 1-to show how to properly manage OneToOne, ManytoOne and ManyToMany relationship using Spring MVC and Spring data.
 ### 2 -Applying Injection of dependance using the recommended approach which is the injection through the constructor (not @Autowired)
 ## 3- Avoid StarkoverflowException(common in ManyToMany or ManyToOne relationship) with help of Jakson library 
